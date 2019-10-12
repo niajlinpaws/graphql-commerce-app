@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "role": "Admin",
+      "username": "admin",
+      "password": "abcd"
+    },
+    {
+      "id": 2,
+      "name": "Jane Walsh",
+      "role": "Customer",
+      "username": "jane123",
+      "password": "abcd"
+    },
+    {
+      "id": 3,
+      "name": "Ruby Rails",
+      "role": "Customer",
+      "username": "ruby123",
+      "password": "abcd"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "products" : [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+      "price": 50,
+      "category" : ["fruit", "edible"]
+    },
+    {
+      "id": 2,
+      "name": "Olives",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+      "price": 100,
+      "category" : ["fruit", "edible"]
+    },
+    {
+      "id": 3,
+      "name": "Tomato",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+      "price": 60,
+      "category" : ["vegetable", "edible"]
+    },
+    {
+      "id": 4,
+      "name": "Onion",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+      "price": 20,
+      "category" : ["vegetable", "edible"]
+    },
+    {
+      "id": 5,
+      "name": "Strawberries",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+      "price": 70,
+      "category" : ["fruit", "edible"]
+    },
+    {
+      "id": 6,
+      "name": "Candle",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+      "price": 250,
+      "category" : ["decor", "inedible"]
+    },
+    {
+      "id": 7,
+      "name": "Table",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+      "price": 750,
+      "category" : ["decor", "inedible"]
+    }
+  ],
+  "promotion": {
+    "id": 1,
+    "title": "New Year promotion up now!!",
+    "product":{
+      "id": 5,
+      "name": "Strawberries",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+      "price": 70,
+      "category" : ["fruit", "edible"]
+    },
+    "duration": 1,
+    "discount": 10
+  }
+}
